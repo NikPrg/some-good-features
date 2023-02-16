@@ -1,8 +1,8 @@
-package com.example.demo.testForGetAllUsersMethod.service;
+package com.example.demo.vicRent.testForGetAllUsersMethod.service;
 
-import com.example.demo.testForGetAllUsersMethod.dto.UserDto;
-import com.example.demo.testForGetAllUsersMethod.mapper.UserMapper;
-import com.example.demo.testForGetAllUsersMethod.repo.UserRepo;
+import com.example.demo.vicRent.testForGetAllUsersMethod.dto.UserDto;
+import com.example.demo.vicRent.testForGetAllUsersMethod.mapper.UserMapper;
+import com.example.demo.vicRent.testForGetAllUsersMethod.repo.UserRepo;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

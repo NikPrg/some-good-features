@@ -1,4 +1,4 @@
-package com.example.demo.testForEnum;
+package com.example.demo.vicRent.testForEnum;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

@@ -1,10 +1,7 @@
-package com.example.demo.testForOptional;
+package com.example.demo.vicRent.testForOptional;
 
 import org.springframework.stereotype.Service;
-import org.springframework.util.ObjectUtils;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Optional;
 
 import static java.util.Optional.*;

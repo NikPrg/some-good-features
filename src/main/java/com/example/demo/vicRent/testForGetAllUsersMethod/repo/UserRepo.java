@@ -1,6 +1,6 @@
-package com.example.demo.testForGetAllUsersMethod.repo;
+package com.example.demo.vicRent.testForGetAllUsersMethod.repo;
 
-import com.example.demo.testForGetAllUsersMethod.models.User;
+import com.example.demo.vicRent.testForGetAllUsersMethod.models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

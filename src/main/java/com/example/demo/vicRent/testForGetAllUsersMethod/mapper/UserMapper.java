@@ -1,7 +1,7 @@
-package com.example.demo.testForGetAllUsersMethod.mapper;
+package com.example.demo.vicRent.testForGetAllUsersMethod.mapper;
 
-import com.example.demo.testForGetAllUsersMethod.dto.UserDto;
-import com.example.demo.testForGetAllUsersMethod.models.User;
+import com.example.demo.vicRent.testForGetAllUsersMethod.dto.UserDto;
+import com.example.demo.vicRent.testForGetAllUsersMethod.models.User;
 import org.springframework.stereotype.Component;
 
 @Component

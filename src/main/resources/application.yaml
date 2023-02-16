@@ -1,8 +1,0 @@
-t-shirt-size:
-  simple-mapping:
-    test:
-      XS: 6
-      S: 8
-      M: 10
-      L: 12
-      XL: 14

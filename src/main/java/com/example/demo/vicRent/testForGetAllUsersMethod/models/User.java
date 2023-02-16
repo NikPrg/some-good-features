@@ -1,4 +1,4 @@
-package com.example.demo.testForGetAllUsersMethod.models;
+package com.example.demo.vicRent.testForGetAllUsersMethod.models;
 
 import lombok.Data;
 

@@ -1,6 +1,6 @@
-package com.example.demo.testForRepository;
+package com.example.demo.vicRent.testForRepository;
 
-import com.example.demo.testForGetAllUsersMethod.repo.UserRepo;
+import com.example.demo.vicRent.testForGetAllUsersMethod.repo.UserRepo;
 import lombok.SneakyThrows;
 import org.jooq.lambda.Unchecked;
 import org.springframework.data.jpa.repository.JpaRepository;

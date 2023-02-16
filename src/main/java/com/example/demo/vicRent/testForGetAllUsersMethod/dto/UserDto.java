@@ -1,4 +1,4 @@
-package com.example.demo.testForGetAllUsersMethod.dto;
+package com.example.demo.vicRent.testForGetAllUsersMethod.dto;
 
 import lombok.Data;
 
